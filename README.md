@@ -9,6 +9,6 @@ The voltage reference consists of:
 3. α1 * PTAT + α2 * CTAT = constant voltage
 
 PROCEDURE:
-The circuit is designed in CADENCE VIRTUOSO. 
-DC analysis is performed by sweeping temperature parameter from -40°C to +125°C.
-The graphs of CTAT, PTAT and BGR voltage are plotted.
+1. The circuit is designed in CADENCE VIRTUOSO. 
+2. DC analysis is performed by sweeping temperature parameter from -40°C to +125°C.
+3. The graphs of CTAT, PTAT and BGR voltage are plotted.
